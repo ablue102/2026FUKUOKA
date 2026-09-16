@@ -1,3 +1,8 @@
-// 從 Firebase 專案設定 > 你的應用程式 > 網頁應用程式 複製設定至此。
-// 這是公開的網頁設定，絕不可填入 service account 私鑰。
-window.FIREBASE_CONFIG = {};
+window.FIREBASE_CONFIG = {
+ apiKey: 'AIzaSyBP2RwugoOP9jnUAhn8FPKhHTux9jIC2ek',
+ authDomain: 'fukuoka-8a54d.firebaseapp.com',
+ projectId: 'fukuoka-8a54d',
+ storageBucket: 'fukuoka-8a54d.firebasestorage.app',
+ messagingSenderId: '217334670112',
+ appId: '1:217334670112:web:b8ac45349b12cc6e822d45'
+};
